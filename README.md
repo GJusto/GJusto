@@ -22,7 +22,8 @@
     <th>JavaScript</th>
     <th>GraphQL</th>
     <th>Python</th>
-    <th>MySQL</th> 
+    <th>MySQL</th>
+    <th>MongoDB</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node"</td>
@@ -31,6 +32,7 @@
     <td><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"</td>
     <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"</td>
     <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"</td>    
+   <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"</td>
   </tr>
 </table>
 
