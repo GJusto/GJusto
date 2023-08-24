@@ -4,7 +4,7 @@
 ### SOBRE MIM 
 - Desenvolvedor Backend | Node | TypeScript | GraphQL
 - Formado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
-- Atualmente trabalhando no desenvolvimento de aplicações em Node/TypeScript para a camada de Back-For-Front implementando GraphQL.
+
 
 <hr>
 
