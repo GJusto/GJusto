@@ -24,6 +24,7 @@
     <th>GraphQL</th>
     <th>MySQL</th>
     <th>MongoDB</th>
+    <th>PostgreSQL</th>
     <th>Jest</th>
   </tr>
   <tr>
@@ -34,6 +35,7 @@
     <td><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"</td>
     <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"</td>    
     <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"</td>
+    <td><img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgre"</td>
     <td><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"</td>
   </tr>
   </table>
@@ -44,13 +46,11 @@
   <tr>
     <th>Kafka</th>
     <th>Docker</th>
-    <th>React</th>
   </tr>
     
   <tr>
     <td><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka"</td>
     <td><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"</td>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"</td>
   </tr>
 </table>
 
